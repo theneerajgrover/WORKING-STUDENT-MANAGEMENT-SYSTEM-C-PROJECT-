@@ -1,4 +1,4 @@
-# WORKING-STUDENT-MANAGEMENT-SYSTEM-C-PROJECT-
+# WORKING_STUDENT_MANAGEMENT_SYSTEM_(C-PROJECT)
 The Student Management System is a simple yet fully functional mini-project developed in the C programming language. It is designed to help beginners understand the practical implementation of structures, arrays, loops, and conditional statements in C while building a useful, real-world style application. This project provides an interactive console-based interface that allows the user to store and manage student records efficiently without the use of any external files or databases.
 
 The system maintains student information such as roll number, name, and marks. These details are stored in an array of structures, making it easy to access and modify individual records. The project consists of five primary operations: Add Student, View Students, Search Student, Update Marks, and Delete Student. These functions work together to form a complete management system suitable for academic learning and demonstration purposes.
